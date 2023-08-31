@@ -167,4 +167,15 @@ button:active {
   body {
     padding: 0 48px;
   }
+
+  .bg,
+  .ratings div {
+    height: 38px;
+    width: 38px;
+    padding-top: 9.5px;
+  }
+
+  .ratings {
+    gap: 14px;
+  }
 }
